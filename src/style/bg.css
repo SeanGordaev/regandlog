@@ -1,0 +1,26 @@
+.textPlace {
+    height: 90vh;
+    padding-left: 25px;
+    padding-right: 25px;
+
+    display: flex;
+    justify-content: center;  /* горизонталь */
+    align-items: center;
+
+    padding-left: 25px;
+    padding-right: 25px;
+
+    z-index: 0;
+}
+
+.bg_text {
+    font-size: 5vw;
+    z-index: -2;
+    color: rgb(80, 135, 218);
+}
+/* 
+@keyframes typing {
+    0% {width: 0;}
+    100% {width: 100%;}
+}
+ */
